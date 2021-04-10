@@ -5,6 +5,7 @@ Project 05 for MSCH-C220
 Description
 ## Implementation
 Assets used in project:
+
 https://kenney.nl/assets/blocky-characters
 https://kenney.nl/assets/platformer-kit
 https://freesound.org/people/JollyGreenZ/sounds/534602/
