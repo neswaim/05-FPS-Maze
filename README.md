@@ -2,7 +2,7 @@
 Project 05 for MSCH-C220
 4/10/2021
 
-Description
+Simple FPS Maze including enemies, a weapon, a method of escaping, and many sound effects.
 ## Implementation
 Assets used in project:
 
